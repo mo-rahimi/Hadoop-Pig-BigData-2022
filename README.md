@@ -2,6 +2,7 @@
 - `Analysis of UK Accident Data`🚥  🚦  🚥  🚥  🚦  🚥 
 <img src="images/heat map 0.png" alt="Overview of the project" width="70%">
 ## Description  
+
 My interest in analyzing accident data stems from `my initial role as a data analyst in the traffic department in 2011`. During that time, I observed a consistent number of accidents and injuries, which sparked my curiosity about the factors contributing to these statistics.
 
 Approximately `1.3 million people die annually in road accidents`, with `40 million sustaining injuries or disabilities`. The economic impact of road accidents is significant, affecting individuals, families, and nations. 
